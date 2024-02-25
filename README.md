@@ -25,3 +25,6 @@ Welcome to the Social Media Platform project built using Django! This project ai
 - unfollow to a user
 - Explore the news feed to see posts from friends.
 - Log out when you're done using the platform.
+
+
+
