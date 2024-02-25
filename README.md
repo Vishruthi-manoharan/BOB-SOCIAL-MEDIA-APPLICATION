@@ -42,12 +42,16 @@ Welcome to the Social Media Platform project built using Django! This project ai
 ![Screenshot (31)](https://github.com/Vishruthi-manoharan/BOB-SOCIAL-MEDIA-APPLICATION/assets/117000750/98d85876-1779-46bc-963c-22bd3e91b39b)
 ![Screenshot (32)](https://github.com/Vishruthi-manoharan/BOB-SOCIAL-MEDIA-APPLICATION/assets/117000750/5a84728b-bdfe-4db6-88ab-c363ae0172c8)
 ![Screenshot (33)](https://github.com/Vishruthi-manoharan/BOB-SOCIAL-MEDIA-APPLICATION/assets/117000750/4b427a5e-4a80-468b-be4e-3306df92406f)
+![Screenshot (37)](https://github.com/Vishruthi-manoharan/BOB-SOCIAL-MEDIA-APPLICATION/assets/117000750/a9756ea7-cb13-41c0-90e6-6622e11909cb)
+
 
 6)Create post
 ![Screenshot (34)](https://github.com/Vishruthi-manoharan/BOB-SOCIAL-MEDIA-APPLICATION/assets/117000750/2f93ec0a-a56d-40f8-a67f-c6ed6a8b4277)
 
 7)Profile
 ![Screenshot (35)](https://github.com/Vishruthi-manoharan/BOB-SOCIAL-MEDIA-APPLICATION/assets/117000750/4b0b250e-7d52-4750-8d59-fd5c58827442)
+![Screenshot (36)](https://github.com/Vishruthi-manoharan/BOB-SOCIAL-MEDIA-APPLICATION/assets/117000750/d90df348-b6a2-4ec9-b4a6-f0270d9dfaa1)
+
 
 
 
